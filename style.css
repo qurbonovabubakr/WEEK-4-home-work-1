@@ -123,3 +123,30 @@
         font-size: 15px;
     }
 }
+.section2{
+    position: relative;
+    top: 200px;
+    left: -30px;
+    margin: auto;
+    max-width: 1200px;
+}
+.e0{
+    width: 380px;
+    height: 30px;
+    background-color: #CCF4E6;
+    top: 100px;
+    color: #CCF4E6;
+}
+.e{
+    position: absolute;
+}
+.ee{
+    position: absolute;
+    left: 650px;
+}
+.ee1{
+    color: gray;
+}
+@media (max-width: 500px){
+    
+}
