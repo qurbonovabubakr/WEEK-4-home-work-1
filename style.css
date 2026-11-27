@@ -63,11 +63,13 @@
     background-color: #F9F9F9;
     height: 400px;
     margin: auto;
+    max-width: 1200px;
     position: relative;
 }
 .q{
     margin: auto;
     max-width: 1200px;
+    position: relative;
 }
 .q button{
     padding: 15px 20px;
@@ -83,6 +85,7 @@
     position: absolute;
     top: 100px;
     right:  150px;
+    margin: auto;
 }
 .qqq{
     position: absolute;
@@ -91,37 +94,8 @@
     background-color: #CCF4E6;
     top: 50px;
     right: 50px;
-}
-@media (max-width: 500px){
-    .qq{
-        width: 400px;
-        position: absolute;
-    }
-    .qqq{
-        width: 430px;
-        position: absolute;
-        left: 50px;
-        height: 250px;
-    }
-    .q{
-        position: absolute;
-        top: 380px;
-        font-size: 20px;
-        left: 50px;
-    }
-    .section1{
-        height: 550px;
-    }
-    .q p{
-        font-size: 25px;
-    }
-    .q button{
-        padding: 25px 100px;
-        position: absolute;
-        left: 10px;
-        font-weight: bold;
-        font-size: 15px;
-    }
+    margin: auto;
+    max-width: 1200px;
 }
 .section2{
     position: relative;
