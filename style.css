@@ -276,3 +276,28 @@
 .ooo2{
     top: 135px;
 }
+.section6{
+    position: relative;
+    top: 800px;
+    background-color: #69B99D;
+    padding: 50px;
+    height: 100px;
+    margin: auto;
+}
+.i{
+    color: white;
+}
+.i0{
+    margin: auto;
+    max-width: 1200px;
+}
+.i1{
+    position: relative;
+    top: -70px;
+    left: 1000px;
+    gap: 20px;
+}
+.ii{
+    margin: auto;
+    max-width: 1200px;
+}
