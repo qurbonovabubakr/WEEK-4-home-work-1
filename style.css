@@ -181,3 +181,98 @@
 .r1{
     color: gray;
 }
+
+
+.section4{
+    position: relative;
+    top: 800px;
+    text-align: center;
+    margin: auto;
+    max-width: 1200px;
+}
+.p99{
+    margin: auto;
+    max-width: 1200px;
+}
+.p{
+    position: relative;
+    padding: 80px 5px;
+    box-shadow: 1px 1px 2px gray;
+    width: 450px;
+    height: 120px;
+    left: 90px;
+    top: 50px;
+}
+.p1{
+    display: flex;
+    position: relative;
+    left: 80px;
+}
+.p2{
+    position: relative;
+    top: -245px;
+    left: 650px;
+    box-shadow: 1px 1px 2px gray;
+}
+.p5{
+    position: relative;
+    top: 20px;
+    left: -150px;
+}
+.p6{
+    position: relative;
+    top: -25px;
+    font-size: 17px;
+    left: -70px;
+}
+.section5{
+    position: relative;
+    top: 800px;
+    background-color: #F9F9F9;
+    height: 600px;
+    margin: auto;
+}
+.pp{
+    position: relative;
+    top: -150px;
+    width: 100px;
+}
+.o{
+    position: relative;
+    top: 200px;
+    margin-left: 50px;
+    margin: auto;
+    max-width: 1200px;
+}
+.o h1{
+    font-weight: bold;
+}
+.o2{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 171px;
+    left: 8px;
+}
+ .o button{
+    background-color: #69B99D;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    padding-left: 40px;
+}
+.oo{
+    position: relative;
+    top: -180px;
+    margin-left: 700px;
+}
+.oo1{
+    position: absolute;
+    right: 510px;
+}
+.ooo1{
+    top: 60px;
+}
+.ooo2{
+    top: 135px;
+}
